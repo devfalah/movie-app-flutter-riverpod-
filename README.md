@@ -1,16 +1,19 @@
-# movie_app
+## Movie Flutter Application
 
-A new Flutter project.
+<h1 align="center"> Movie Application</h1>
+<div align="center">
+<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
 
-## Getting Started
+<img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
 
-This project is a starting point for a Flutter application.
+</div>
 
-A few resources to get you started if this is your first Flutter project:
+<br>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<a href="https://flutter.io/">Flutter</a> Flutter allows you to build beautiful native apps on iOS and Android Platforms from a single codebase. 
+<a href="https://www.themoviedb.org//">themoviedb.org</a>for API
+<div>
+<img src="preview/preview_1.png"" alt="feed example" width="200">
+<img src="preview/preview_2.png" alt="feed example" width="200">
+</div>
+</p>
